@@ -1,23 +1,23 @@
-**VLSI_front_end**
+# VLSI_front_end
 
 This repository is dedicated to documenting and organizing my learning journey through **Front-End VLSI Design**. It covers RTL (Register Transfer Level) design and Testbench development in a chapter-wise manner, starting from the basics and gradually progressing to more advanced digital design concepts and mini-projects.
 
 ---
 
-**📚 Chapter-wise Learning Plan**
+## 📚 Chapter-wise Learning Plan
 
-**📘 Chapter 0: Introduction & Setup**
+### 📘 Chapter 0: Introduction & Setup
 - Folder: [`chapter-0`](./chapter-0)
 - Environment setup
 - Introduction to HDL (Verilog/VHDL)
 - Simulation tools
 
-**🔌 Chapter 1: Logic Gates**
+### 🔌 Chapter 1: Logic Gates
 - Basic logic gate implementation
 - Gate-level modeling
 - Truth tables and waveform observation
 
-## 🔁 Chapter 2: Combinational Circuits
+### 🔁 Chapter 2: Combinational Circuits
 - Adders, subtractors, multiplexers, encoders, decoders
 - Design & testbench writing
 - Behavioral and structural modeling
@@ -68,3 +68,4 @@ This is a personal learning repo, but feel free to fork or suggest improvements!
 
 ## ©️ License
 This project is open for educational and non-commercial use.
+
