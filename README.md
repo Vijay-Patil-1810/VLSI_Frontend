@@ -7,7 +7,7 @@ This repository is dedicated to documenting and organizing my learning journey t
 ## 📚 Chapter-wise Learning Plan
 
 ### 📘 Chapter 0: Introduction & Setup
-- Folder: [`chapter-0`](./chapter-0)
+- Folder: [`Chapter-0`](./Chapter-0)
 - Environment setup
 - Introduction to HDL (Verilog/VHDL)
 - Simulation tools
